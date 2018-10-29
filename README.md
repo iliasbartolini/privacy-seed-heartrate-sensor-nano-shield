@@ -5,11 +5,11 @@ This component is part of the [Privacy Seed](https://privacy-seed.org/) project.
 
 ## Schema
 
-![Schema](https://raw.githubusercontent.com/iliasbartolini/privacy-seed-heartrate-sensor-nano-shield/doc/schematic.png)
+![Schema](doc/schematic.png)
 
 
 ## PCB
 
-![PCB](https://raw.githubusercontent.com/iliasbartolini/privacy-seed-heartrate-sensor-nano-shield/doc/pcb.png)
+![PCB](doc/pcb.png)
 
-![PCB](https://raw.githubusercontent.com/iliasbartolini/privacy-seed-heartrate-sensor-nano-shield/heartrate_sensor_nano_shield-F.Cu.svg.png)
+![PCB](heartrate_sensor_nano_shield-F.Cu.svg.png)
